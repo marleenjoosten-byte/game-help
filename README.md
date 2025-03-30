@@ -34,3 +34,13 @@ document.addEventListener('DOMContentLoaded', function() {
     <script src="script.js"></script>
 </body>
 </html>
+<section>
+    <h2>Nieuwste Game Aanbiedingen</h2>
+    <p>Bekijk de nieuwste promoties voor games die je kunt kopen!</p>
+</section>
+
+<footer>
+    <p>&copy; 2025 Game Promoties. Alle rechten voorbehouden.</p>
+</footer>
+
+<script src="script.js"></script>
